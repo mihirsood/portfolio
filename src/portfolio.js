@@ -7,7 +7,7 @@ const greeting = {
     ,
   resumeLink:
     "https://drive.google.com/file/d/10YNqFf_QIGXVVTyhbjGaG1oke_rnF3iI/view?usp=sharing",
-  portfolio_repository: "https://mihirsood.github.io",
+  portfolio_repository: "https://mihirsood.github.io/portfolio",
 };
 
 const socialMediaLinks = [
