@@ -1,0 +1,90 @@
+{
+    "data": [
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyMzY0ODY1MDA=",
+            "name": "Cross Platform Excel Clone",
+            "createdAt": "May 2021",
+            "url": "https://mihirsood.github.io/Excel_Clone/",
+            "description": "A cross platform Spreadsheet application which has functionalitites similar to Excel",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNTg3MjY2NjQ=",
+            "name": "Camera and Gallery Application",
+            "createdAt": "June 2021",
+            "url": "https://mihirsood.github.io/cameraApplication/",
+            "description": "An Online Camera and Gallery Application which uses IndexedDB and Canvas API.",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNjkyNTkzNDU=",
+            "name": "B+ Trees in RDBMS",
+            "createdAt": "August 2021",
+            "url": "https://github.com/mihirsood/BTrees",
+            "description": "Index Implementation using B+ Trees in RDBMS which improves the performance of database manipulation and searching.",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "Java",
+                    "iconifyClass": "logos-java"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyMjA5NzY5NzE=",
+            "name": "Spotify Playlist Cloner",
+            "createdAt": "April 2021",
+            "url": "https://github.com/mihirsood/Spotify-Playlist-Clone",
+            "description": "An automation script using Puppeteer which dynamically clones a playlist on Spotify.",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyODIzMjA1Mjc=",
+            "name": "Tic Tac Toe",
+            "createdAt": "October 2020",
+            "url": "https://github.com/mihirsood/TicTacToe_Java",
+            "description": "An interactive TicTacToe Game made using Java FX and Swing Framework",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "Java",
+                    "iconifyClass": "logos-java"
+                }
+            ]
+        }
+    ]
+}
