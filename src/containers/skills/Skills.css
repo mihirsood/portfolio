@@ -85,9 +85,4 @@
   .skills-image-div > * {
     margin-top: 0px;
   }
-  #java-div{
-    margin-top: 0px;
-    transform:scale(0.2);
-    order: 2;
-  }
 }
