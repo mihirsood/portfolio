@@ -5,8 +5,8 @@ const greeting = {
   subTitle:
     "Hi. I am a Final Year Computer Science and Engineering Undergraduate who loves to explore new Technologies and work on Challenging Ideas.",
   resumeLink:
-    "https://drive.google.com/file/d/1ZVZiTcmWNN6far6GFUTDbj_GzwB3GadS/view?usp=sharing",
-  portfolio_repository: "https://mihirsood.github.io/portfolio",
+    "https://drive.google.com/file/d/1IDrinJbbFM0GUQk3LfeHW66oIz0UJYt3/view?usp=sharing",
+  portfolio_repository: "http://mihirsood.github.io/portfolio",
 };
 
 const socialMediaLinks = [
