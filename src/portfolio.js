@@ -3,10 +3,9 @@ const greeting = {
   title: "Mihir Sood",
   logo_name: "MihirSood",
   subTitle:
-    "Hi. I am a Final Year Computer Science and Engineering Undergraduate who loves to explore new Technologies and work on Challenging Ideas."
-    ,
+    "Hi. I am a Final Year Computer Science and Engineering Undergraduate who loves to explore new Technologies and work on Challenging Ideas.",
   resumeLink:
-    "https://drive.google.com/file/d/10YNqFf_QIGXVVTyhbjGaG1oke_rnF3iI/view?usp=sharing",
+    "https://drive.google.com/file/d/1ZVZiTcmWNN6far6GFUTDbj_GzwB3GadS/view?usp=sharing",
   portfolio_repository: "https://mihirsood.github.io/portfolio",
 };
 
@@ -178,7 +177,6 @@ const degrees = {
       descriptions: [
         "⚡ I scored an aggregate percentage of 92.4 %",
         "⚡ My Coursework consisted of : English, Mathematics, Chemistry, Physics, Computer Science",
-        
       ],
       website_link: "https://www.apeejay.edu/pitampura/",
     },
@@ -188,9 +186,7 @@ const degrees = {
       logo_path: "apj.png",
       alt_name: "Apeejay Delhi",
       duration: "2016",
-      descriptions: [
-        "⚡ I scored a CGPA of 9.6 (10)",
-      ],
+      descriptions: ["⚡ I scored a CGPA of 9.6 (10)"],
       website_link: "https://www.apeejay.edu/pitampura/",
     },
   ],
@@ -198,15 +194,15 @@ const degrees = {
 
 const certifications = {
   certifications: [
-      {
-        title: "CRUX Java by Coding Blocks",
-        subtitle: "- Garima Chikkara",
-        logo_path: "cblogo.png",
-        certificate_link: "",
-        alt_name: "Coding Blocks",
-        color_code: "#ffffff",
-      },
-      {
+    {
+      title: "CRUX Java by Coding Blocks",
+      subtitle: "- Garima Chikkara",
+      logo_path: "cblogo.png",
+      certificate_link: "",
+      alt_name: "Coding Blocks",
+      color_code: "#ffffff",
+    },
+    {
       title: "React JS- Complete Guide for Frontend Web Development",
       subtitle: "- EdYoda Digital University",
       logo_path: "udemy_logo.png",
@@ -215,7 +211,6 @@ const certifications = {
       alt_name: "Udemy",
       color_code: "#ffffff",
     },
-    
   ],
 };
 
@@ -254,7 +249,7 @@ const experience = {
           duration: "May 2021 - Present",
           location: "Delhi, India",
           description:
-          "Worked closely with a team of 20 members to provide the best guidance to 120 learners having colleges all across India. Coached various Data Structures and Algorithms to the learners, resolved their doubts and monitored their progress on various coding platforms.",
+            "Worked closely with a team of 20 members to provide the best guidance to 120 learners having colleges all across India. Coached various Data Structures and Algorithms to the learners, resolved their doubts and monitored their progress on various coding platforms.",
           color: "#D83B01",
         },
       ],
